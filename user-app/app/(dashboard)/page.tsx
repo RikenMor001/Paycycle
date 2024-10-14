@@ -1,4 +1,4 @@
-// one can only use useSession() provided it is wrapped inside a <Provider></Provider> which is know as a sessionProvider
+// one can only use useSession() provided it is wrapped inside a <Provider></Provider> which is known as a sessionProvider
 // Can you directly just call sessionProvider(authOptions) this way? yes
 // For just keeping the code structure clean, it's better to wrap the codebase this way 
 // <SessionProvider>
